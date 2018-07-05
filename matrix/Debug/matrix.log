@@ -1,0 +1,4 @@
+﻿  matrix.cpp
+c:\users\yhe19\source\repos\matrix\matrix\matrix.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  matrix.vcxproj -> C:\Users\yhe19\source\repos\matrix\Debug\matrix.exe
+  matrix.vcxproj -> C:\Users\yhe19\source\repos\matrix\Debug\matrix.pdb (Partial PDB)
